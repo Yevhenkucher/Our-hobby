@@ -1,0 +1,41 @@
+body {
+	font-family: 'Amiri', serif;
+	font-family: 'Red Hat Mono', monospace;
+	margin:0;
+	background-color:white;
+	height:100%;
+	
+	}
+p
+{
+	margin-left:190px;
+	margin-right:240px;
+	text-align:justify;
+	margin-top:20px;
+}
+
+
+
+#wrapper {
+float:center;
+background: #FFC300;width: 100%;
+
+
+
+}
+#wrapper-left{
+float: left;
+color:#FFC300;
+height:200vh;
+background: #FFC300;}
+
+#wrapper-right{
+float: right;
+width: 15.05%;
+
+height:200vh;
+background: #FFC300;}
+img
+{
+	margin-left:4px;
+}
